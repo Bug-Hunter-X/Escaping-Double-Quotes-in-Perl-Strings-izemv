@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl: forgetting to escape embedded double quotes within double-quoted strings.  The `bug.pl` file shows the error, while `bugSolution.pl` provides the corrected code.  This issue can lead to unexpected behavior or syntax errors during runtime. The solution involves using backslash escapes to correctly handle the embedded quotes.
